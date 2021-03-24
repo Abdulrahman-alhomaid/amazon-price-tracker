@@ -1,0 +1,2 @@
+//add amazon product url her and price ex
+https://www.amazon.com/Acer-Predator-XB271HU-bmiprz-2560x1440/dp/B06ZXZ3QBD,4000
